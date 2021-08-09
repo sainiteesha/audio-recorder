@@ -4,8 +4,8 @@ Audio recorder (Voice recorder, Sound recorder) - an application that gives easy
 
 ### Features:
 
-Recording audio
-Playing back recordings
-Recording and playing back in background
-Rename recordings
-Share recordings
+Recording audio,
+Playing back recordings,
+Recording and playing back in background,
+Rename recordings,
+Share recordings.
